@@ -1,11 +1,11 @@
-📌 Project Description:
+📝 Project Description:
 
 This Python project demonstrates practical data manipulation and analysis using NumPy and Pandas, focusing on a simulated HR-business dataset. 
 The project covers real-world tasks such as handling missing values, dataframe merging, conditional logic, data transformation, and segmentation—emulating challenges faced in HR and Business Analysis roles.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ Key Highlights:
+✨ Key Highlights:
 
 Handled missing data using a running average technique with loops
 
